@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 import DatePicker from 'react-mobile-datepicker'
 
 function App() {
@@ -53,7 +53,7 @@ function App() {
         cancelText="Cancel"
       />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
